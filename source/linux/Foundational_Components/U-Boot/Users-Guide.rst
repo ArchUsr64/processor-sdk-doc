@@ -30,3 +30,4 @@ User's Guide
     UG-AVS
     UG-Thermal
     UG-Splash-Screen
+    UG-Falcon-Mode
